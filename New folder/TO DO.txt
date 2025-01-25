@@ -1,0 +1,53 @@
+TO DO-->
+
+1. Best resumes buildiong websites. 
+
+
+
+
+1. Project	6 days | | | | | |
+2. K8s		6 days | | | | | |
+3. Ansible	6 days | | | | | |
+4. Teraform	6 days | | | | | |
+5. ELK		6 days | | | | | |
+6. AWS	       20 days 
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |-
+
+Remain Assigbmets: 
+1. ansible
+2. Terraform 
+
+Projects:
+1. Devops project 2
+2. AWS Project
+
+K8s
+ansible 
+Maven 
+GIT
+DOcker
+
+---------------------------------------
+10. lunch done 
+
+YouTube
+Shayari Girl who don't show her face.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
